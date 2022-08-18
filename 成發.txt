@@ -54,7 +54,7 @@
     <input type="button" value="崔成國" style="font-size:30pt; width:200px;height:140px" onclick="javaScript:alert('真的嗎(¬д¬。)')">
     <input type="button" value="花澤香菜" style="font-size:30pt; width:200px;height:140px" onclick="javaScript:alert('太棒了，眼光真好')">
     <p />
-    <input type="button" value="都喜歡" onclick="self.location.href='file:///C:/Users/owner/Documents/GitHub/rappercheng.final.presentation/%E6%88%90%E7%99%BC2.html'">
+    <input type="button" value="都喜歡" onclick="self.location.href='file:///C:/Users/owner/Desktop/%E6%88%90%E7%99%BC2.html'">
     <input type="button" value="都不喜歡" onclick="javaScript:alert('可惡，罰你按10次確定');alert('剩9次');alert('剩8次');alert('剩7次');alert('剩6次');alert('剩5次');alert('剩4次');alert('剩3次');alert('剩2次');alert('好啦其實我也沒有很喜歡他們')">
 
   </body>
